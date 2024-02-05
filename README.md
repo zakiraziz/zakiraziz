@@ -1,21 +1,5 @@
 <img width="100%" height="500px" src="https://github.com/zakiraziz/zakiraziz/blob/main/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18849
-Fork on GitHub
-5627
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm zakiraziz</h1>
 <h3 align="center">A passionate programer from pakstain</h3>
 
