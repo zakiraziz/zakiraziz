@@ -81,5 +81,4 @@
   </a>
   <a href="https://github.com/zakiraziz/yet-another-project" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Yet%20Another%20Project%203-6a5acd?style=for-the-badge" alt="Project Badge 3" style="margin: 5px;" />
-  </a>
-</
+ 
