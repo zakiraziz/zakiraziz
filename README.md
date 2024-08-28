@@ -1,4 +1,5 @@
-<img align="center" width="100%" height="500px" https://img.freepik.com/premium-photo/developing-programming-coding-technologies-website-design-programmer_832510-3717.jpg" style="border-radius: 15px;" />
+<img align="center" width="100%" height="500px" src="https://img.freepik.com/premium-photo/developing-programming-coding-technologies-website-design-programmer_832510-3717.jpg" style="border-radius: 15px;" />
+
 
 <h1 align="center" style="font-size: 3em; color: #1D3557; font-family: 'Poppins', sans-serif; margin-top: 20px;">Hi there, I'm Zakir Aziz! 👋</h1>
 <h3 align="center" style="font-weight: 400; color: #457B9D; font-family: 'Poppins', sans-serif;">A Passionate Programmer from Pakistan</h3>
