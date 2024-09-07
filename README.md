@@ -1,65 +1,35 @@
-<!-- Custom Header with Gradient and Portrait -->
-<img align="center" width="99%" height="600px" src="https://img.freepik.com/premium-photo/developing-programming-coding-technologies-website-design-programmer_832510-3717.jpg" style="border-radius: 15px;"/>
-
-<div align="center">
-  <img src="https://example.com/your-portrait.jpg" alt="Zakir Aziz" width="150px" style="border-radius: 50%; margin-top: -75px;"/>
-</div>
+<img align="center" width="99%" height="600px" src="https://img.freepik.com/premium-photo/developing-programming-coding-technologies-website-design-programmer_832510-3717.jpg" style="border-radius: 15px;" />
 
 <h1 align="center" style="font-size: 3em; color: #1D3557; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi there, I'm Zakir Aziz! 👋</h1>
 <h3 align="center" style="font-weight: 400; color: #457B9D; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A Passionate Programmer from Pakistan</h3>
 
-<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zakiraziz&label=Profile%20views&color=1D3557&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Explore My Projects -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/zakiraziz" style="font-size: 1.2em; color: #E63946; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     🔗 Explore My Projects on GitHub
   </a>
 </div>
 
-<!-- Custom Divider -->
-<hr style="border: 2px solid #1D3557; margin: 20px 0;">
-
-<!-- Connect with Me with Hover Effects -->
-<h3 align="center" style="font-weight: bold; color: #1D3557;">
-  <img src="https://img.icons8.com/doodle/48/000000/connected.png" width="25px"/> Connect with Me
-</h3>
+<h3 align="center" style="font-weight: bold; color: #1D3557;">Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakiraziz/" target="_blank" rel="noreferrer" class="social-icon" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/zakiraziz/" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/zakiraziz" target="_blank" rel="noreferrer" class="social-icon" style="margin: 0 10px;">
+  <a href="https://twitter.com/zakiraziz" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://dev.to/zakiraziz" target="_blank" rel="noreferrer" class="social-icon" style="margin: 0 10px;">
+  <a href="https://dev.to/zakiraziz" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="mailto:zakiraziz@example.com" target="_blank" rel="noreferrer" class="social-icon" style="margin: 0 10px;">
+  <a href="mailto:zakiraziz@example.com" target="_blank" rel="noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- Quote Section -->
-<blockquote style="font-style: italic; color: #457B9D; text-align: center;">
-  "Code is like humor. When you have to explain it, it’s bad."
-</blockquote>
-
-<!-- Latest Activity Section -->
-<h3 align="center" style="font-weight: bold; color: #1D3557;">📊 Latest Activity</h3>
-<p align="center">
-  <!-- GitHub Activity Widget -->
-</p>
-
-<!-- Custom Divider -->
-<hr style="border: 2px solid #1D3557; margin: 20px 0;">
-
-<!-- Languages and Tools Section with Updated Styles -->
-<h3 align="center" style="font-weight: bold; color: #1D3557;">
-  <img src="https://img.icons8.com/doodle/48/000000/code.png" width="25px"/> Languages and Tools
-</h3>
+<h3 align="center" style="font-weight: bold; color: #1D3557;">Languages and Tools</h3>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 10px;"/>
@@ -81,33 +51,31 @@
   </a>
 </p>
 
-<!-- What I Do Section with Icon -->
-<h3 align="center" style="font-weight: bold; color: #1D3557;">
-  <img src="https://img.icons8.com/doodle/48/000000/tasks.png" width="25px"/> What I Do
-</h3>
+<h3 align="center" style="font-weight: bold; color: #1D3557;">What I Do</h3>
 <p align="center" style="font-size: 1.1em; color: #1D3557; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   🚀 Developing responsive and user-friendly web applications <br>
   🛠️ Writing clean, efficient, and maintainable code <br>
   🎓 Continuously learning and exploring new technologies
 </p>
 
-<!-- Hobbies & Interests Section with Updated Styles -->
-<h3 align="center" style="font-weight: bold; color: #1D3557;">
-  <img src="https://img.icons8.com/doodle/48/000000/soccer-ball.png" width="25px"/> Hobbies & Interests
-</h3>
+<h3 align="center" style="font-weight: bold; color: #1D3557;">Hobbies & Interests</h3>
 <p align="center" style="font-size: 1.1em; color: #1D3557; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   🎮 Gaming | 🎨 Design | 📖 Reading | 🛠️ DIY Projects
 </p>
 
-<!-- Interactive Sections Example -->
-<details>
-  <summary><strong>Click to Expand: My Favorite Projects</strong></summary>
-  <p>Project 1: Description</p>
-  <p>Project 2: Description</p>
-</details>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="border-radius: 15px;"/>
 
-<!-- GitHub Stats Section -->
 <div align="center" style="margin-top: 20px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakiraziz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-bottom: 20px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakiraziz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakiraziz&theme=tokyonight" alt="GitHub Streak Stats" style="margin
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakiraziz&theme=tokyonight" alt="GitHub Streak Stats" style="margin-bottom: 20px;" />
+</div>
+
+<h3 align="center" style="font-weight: bold; color: #1D3557;">✨ Highlights ✨</h3>
+<div align="center" style="margin: 20px;">
+  <a href="https://github.com/zakiraziz/some-awesome-project" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Some%20Awesome%20Project%201-E63946?style=for-the-badge" alt="Project Badge 1" style="margin: 5px;" />
+  </a>
+  <a href="https://github.com/zakiraziz/another-cool-project" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Another%20Cool%20Project%202-457B9D?style=for-the-badge" alt="Project Badge 2" style="margin: 5px;" />
+  </a>
