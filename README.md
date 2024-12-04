@@ -1,4 +1,4 @@
-<div style="background-color: #F1FAEE; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #F1FAEE; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);"> 
   <img align="center" width="99%" height="600px" 
        src="https://img.freepik.com/premium-photo/developing-programming-coding-technologies-website-design-programmer_832510-3717.jpg" 
        style="border-radius: 15px; margin-bottom: 20px;" />
