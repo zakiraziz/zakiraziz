@@ -1,4 +1,4 @@
-<div style="background-color: #F1FAEE; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);"> 
+<div style="background-color: #F1FAEE; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
   <div style="text-align: center; margin-bottom: 20px;">
     <img src="https://via.placeholder.com/150" alt="Profile Picture" 
          style="border-radius: 50%; width: 150px; height: 150px; border: 3px solid #1D3557;" />
