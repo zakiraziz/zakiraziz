@@ -7,10 +7,11 @@
     <style>
         body {
             background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Poppins', sans-serif;
             color: #ffffff;
             text-align: center;
             padding: 20px;
+            scroll-behavior: smooth;
         }
         .container {
             max-width: 800px;
@@ -19,6 +20,7 @@
             padding: 20px;
             border-radius: 15px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 1.5s ease-in-out;
         }
         h1 {
             font-size: 2.5em;
@@ -42,14 +44,30 @@
         }
         .btn:hover {
             background: #c0392b;
+            transform: scale(1.1);
         }
         .badges img {
             margin: 5px;
+        }
+        .profile-pic {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 4px solid white;
+            transition: transform 0.3s;
+        }
+        .profile-pic:hover {
+            transform: rotate(10deg) scale(1.1);
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
     <div class="container">
+        <img src="https://via.placeholder.com/120" alt="Profile Picture" class="profile-pic">
         <h1>Zakir Aziz 👋</h1>
         <p id="typing"></p>
         <script>
@@ -78,8 +96,8 @@
         <p>A Passionate Programmer from Pakistan, dedicated to learning and building innovative projects.</p>
         
         <h2>📌 Featured Projects</h2>
-        <a href="https://github.com/zakiraziz/some-awesome-project" class="btn">Awesome Project 1</a>
-        <a href="https://github.com/zakiraziz/another-cool-project" class="btn">Cool Project 2</a>
+        <a href="#" class="btn">Awesome Project 1</a>
+        <a href="#" class="btn">Cool Project 2</a>
         
         <h2>🏆 Achievements & Certifications</h2>
         <div class="badges">
@@ -89,9 +107,9 @@
         </div>
         
         <h2>📬 Connect with Me</h2>
-        <a href="https://www.linkedin.com/in/zakiraziz" class="btn">LinkedIn</a>
-        <a href="https://twitter.com/zakiraziz" class="btn">Twitter</a>
-        <a href="mailto:zakiraziz@example.com" class="btn">Email</a>
+        <a href="#" class="btn">LinkedIn</a>
+        <a href="#" class="btn">Twitter</a>
+        <a href="#" class="btn">Email</a>
         
         <footer style="margin-top: 20px; font-style: italic;">"Code is like humor. When you have to explain it, it’s bad."</footer>
     </div>
