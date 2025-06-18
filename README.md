@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Zakir Azizi] 👋
 
 <h3 align="center">Full-Stack Developer | Open Source Contributor</h3>
 
