@@ -1,67 +1,38 @@
+# Hi there, I'm [Your Name] 👋
 
-<h1 align="center">Hi 👋, I'm Zakir Aziz</h1>
-<h3 align="center">A passionate programmer and lifelong learner from Pakistan 🇵🇰</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently building **creative Python and full-stack web projects**
-- 🌱 I’m diving deeper into **HTML, CSS, JavaScript, Python & Ethical Hacking**
-- 🎯 2025 Goals:
-  - ✅ Learn **C++, C#, and Arabic**
-  - ✅ Build **18 high-quality projects**
-  - ✅ Sharpen my **English speaking & communication skills**
-  - ✅ Read **10+ self-development books**
-
-- 🧠 I love learning new tech, solving real-world problems, and making ideas come to life!
-- 🏪 I also run a **perfume and jacket shop** 💼
-- ⚽ I play football every day at **2 o'clock** — balance is key!
-
----
-
-### 🚀 Tech Stack & Tools
+<h3 align="center">Full-Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
----
+## 🛠️ Technical Stack
 
-### 📈 GitHub Stats
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakiraziz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakiraziz&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
 </p>
 
----
+## 🏆 Top Languages
 
-### 💡 Learning Philosophy
-
-> “Dream big. Start small. But most of all, start.” — *Simon Sinek*
-
----
-
-### 🔗 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/zakiraziz" target="_blank"><img src="https://img.shields.io/badge/GitHub-zakiraziz-181717?style=for-the-badge&logo=github" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-@yourusername-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakiraziz&label=Profile%20views&color=0e75b6&style=flat" alt="zakiraziz" />
-</p>
+```text
+JavaScript    ████████████████████░░░░   85% 
+Python       █████████████░░░░░░░░░░░   65%
+TypeScript   ████████░░░░░░░░░░░░░░░░   40%
