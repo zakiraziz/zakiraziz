@@ -63,11 +63,17 @@ From Junior to Senior: My Career Journey
 # 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/zakir-azizi" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/zakir_codes" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:zakir@example.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://zakir.dev"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
 # 💡 Coding Activity
+
 JavaScript   ████████████████████░░░░   82.4% 
+
 Python      ███████████░░░░░░░░░░░░░   45.2%
+
 TypeScript  ████████░░░░░░░░░░░░░░░░   38.7%
+
 SQL         █████░░░░░░░░░░░░░░░░░░░   15.3%
+
 Other       ██░░░░░░░░░░░░░░░░░░░░░░   7.4%
+
 # 🎧 Currently Jamming To
 https://spotify-github-profile.vercel.app/api/view?uid=zakir_spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false
 
