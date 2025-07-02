@@ -1,66 +1,137 @@
-# Hi there, I'm Zakir Azizi 👋 
+# Hi there, I'm Zakir Azizi 👋
+<h3 align="center">Full-Stack Developer | Open Source Contributor | Tech Enthusiast</h3><p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"> <br> <img src="https://komarev.com/ghpvc/?username=zakir-azizi&label=Profile%20views&color=0e75b6&style=flat" alt="zakir-azizi" /> </p>
+# 🚀 About Me
+class Developer:
+    def __init__(self):
+        self.name = "Zakir Azizi"
+        self.role = "Full-Stack Developer"
+        self.passion = "Building impactful solutions"
+        self.skills = ["JavaScript", "Python", "React", "Node.js", "Cloud Architecture"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+        
+me = Developer()
+me.say_hi()
+🔭 Currently architecting AI-powered SaaS platforms
 
-<h3 align="center">Full-Stack Developer | Open Source Contributor</h3>
+🌱 Mastering Cloud Native Technologies & System Design
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation">
-</p>
+👯 Looking to collaborate on open-source projects
 
-## 🚀 About Me
+💬 Ask me about Web Development or Career Growth
 
-I'm a passionate full-stack developer with expertise in building scalable web applications. I love contributing to open-source projects and creating solutions that make a difference.
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise Areas]
-- ⚡ Fun fact: [Something Interesting About You]
+# 🛠️ Technical Arsenal
+Frontend
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,graphql,webpack,jest" /> </div>
+Backend
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,flask,fastapi,nestjs" /> </div>
+Databases & Cloud
+<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,aws,gcp,docker,kubernetes" /> </div>
+Tools & More
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" /> </div>
+# 📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakir-azizi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zakir-azizi&theme=radical&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakir-azizi&layout=compact&langs_count=8&theme=radical&hide_border=true"/> </div>
+# 🏆 Achievements
+<p align="center"> <img width="900" src="https://github-profile-trophy.vercel.app/?username=zakir-azizi&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" /> </p>
+# 🔥 Recent Projects
+1. AI Content Platform
+🚀 Next.js + Node.js + OpenAI API | Full-stack AI content generation platform
 
-## 🛠️ Technical Stack
+2. DevConnect Social
+💻 React + Django REST | GitHub-inspired social platform for developers
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+3. CloudDeploy CLI
+☁️ Python + AWS SDK | CLI tool for automating cloud deployments
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+# 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Microservices Architecture: Lessons from Production
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+Optimizing React Performance in 2023
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+From Junior to Senior: My Career Journey
 
-## 📊 GitHub Analytics
+<!-- BLOG-POST-LIST:END -->
+# 🎯 GitHub Metrics
+📦 127.4 kB     Total Contributions 
+🏆 58            Total Stars Earned 
+📜 24            Open Source Projects 
+🚀 15            Projects Contributed To
+# 🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/zakir-azizi" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/zakir_codes" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:zakir@example.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://zakir.dev"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+# 💡 Coding Activity
+JavaScript   ████████████████████░░░░   82.4% 
+Python      ███████████░░░░░░░░░░░░░   45.2%
+TypeScript  ████████░░░░░░░░░░░░░░░░   38.7%
+SQL         █████░░░░░░░░░░░░░░░░░░░   15.3%
+Other       ██░░░░░░░░░░░░░░░░░░░░░░   7.4%
+# 🎧 Currently Jamming To
+https://spotify-github-profile.vercel.app/api/view?uid=zakir_spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/zakir-azizi/zakir-azizi/output/github-contribution-grid-snake.svg" alt="Snake animation"/> </p> ```
+# 🛠️ Setup Instructions
+To implement all these dynamic features:
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+Profile View Counter:
 
-## 🏆 Top Languages
+Just replace zakir-azizi with your GitHub username
 
-```text
-JavaScript    ████████████████████░░░░   85% 
-Python       █████████████░░░░░░░░░░░   65%
-TypeScript   ████████░░░░░░░░░░░░░░░░   40%
-HTML/CSS     █████████░░░░░░░░░░░░░░░   45%
-SQL          ██████░░░░░░░░░░░░░░░░░░   30%
+GitHub Stats Cards:
+
+Uses GitHub Readme Stats API - works automatically when you add your username
+
+WakaTime Coding Activity:
+
+Install WakaTime plugin in your IDE
+
+Connect it to your WakaTime account
+
+Add this to your GitHub profile README
+
+Spotify Now Playing:
+
+Deploy the Spotify GitHub Profile app
+
+Replace zakir_spotify with your Spotify user ID
+
+Snake Animation:
+
+Add this workflow to your .github/workflows directory:
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: zakir-azizi
+          svg_output_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          Dynamic Skill Icons:
+
+Using skillicons.dev - just works with the current implementation
+
+All these features will automatically update:
+
+GitHub stats update daily
+
+WakaTime updates as you code
+
+Spotify updates when your music changes
+
+Snake animation updates daily
+
+Profile views update in real-time
