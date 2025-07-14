@@ -1,4 +1,4 @@
-# Hi there, I'm Zakir Azizi 👋
+# Hi there, I'm am student of raza math👋
 <h3 align="center">Full-Stack Developer | Open Source Contributor | Tech Enthusiast</h3><p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"> <br> <img src="https://komarev.com/ghpvc/?username=zakir-azizi&label=Profile%20views&color=0e75b6&style=flat" alt="zakir-azizi" /> </p>
 # 🚀 About Me
 class Developer:
