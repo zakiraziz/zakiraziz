@@ -1,4 +1,4 @@
-  <h1 align="center">Hi there, I'm Zakir Azizi 👋</h1>
+   <h1 align="center">Hi there, I'm Zakir Azizi 👋</h1>
 > Full-Stack Developer | Open Source Contributor | Tech Enthusiast
 
 <p align="center">
